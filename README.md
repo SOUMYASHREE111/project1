@@ -1,4 +1,4 @@
-# Sentiment Analysis of Amazon Reviews using SVM
+# Natural Language Processing using SVM
 
 This project implements a basic Natural Language Processing (NLP) pipeline to perform sentiment analysis on Amazon product reviews using a Support Vector Machine (SVM) classifier. The model classifies reviews as either positive or negative and achieves an accuracy of over 90% on a dataset of 10,000 reviews.
 
