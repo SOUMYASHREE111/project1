@@ -17,6 +17,5 @@ This project implements a basic Natural Language Processing (NLP) pipeline to pe
 ## Files
 
 - `amazon_reviews.csv`: Input dataset
-- `sentiment_analysis_svm.ipynb`: Google Colab notebook with the full implementation
 - `README.md`: Project overview and instructions
 
